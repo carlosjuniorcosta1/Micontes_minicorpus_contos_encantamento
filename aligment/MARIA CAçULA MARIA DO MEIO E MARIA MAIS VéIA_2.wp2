@@ -1,0 +1,340 @@
+{\rtf1\ansi\ansicpg1252\deff0\deflang1046{\fonttbl{\f0\fnil\fcharset0 Times New Roman;}}
+\viewkind4\uc1\pard\f0\fs34\par
+<WinPitchW10 Output file - Version 1.0/>\par
+<Date date="Friday, July 22, 2022 time 15h 36m 41s"/>\par
+\par
+\par
+<audioFilename>MARIA CA\'e7ULA MARIA DO MEIO E MARIA MAIS V\'e9IA_2.wav</audioFilename>\par
+\par
+\par
+\par
+<GlissandoConstant>16</GlissandoConstant>\par
+\par
+\par
+<BlueSegmentation>\par
+</BlueSegmentation>\par
+\par
+\par
+<TrackingSelection>\par
+\tab <TrackingRank>0</TrackingRank>\par
+\tab <FZeroTracking>Comb</FZeroTracking>\par
+\tab <StartIndex>0</StartIndex>\par
+\tab <EndIndex>19646090</EndIndex>\par
+\tab <BottomFrequency>0</BottomFrequency>\par
+\tab <TopFrequency>0</TopFrequency>\par
+\tab <FZeroMin>70</FZeroMin>\par
+\tab <FZeroMax>800</FZeroMax>\par
+\tab <GenMinHarm>60</GenMinHarm>\par
+\tab <GenMaxHarm>1000</GenMaxHarm>\par
+\tab <NbPointSpectro>256</NbPointSpectro>\par
+\tab <NbPointProcess>1024</NbPointProcess>\par
+\tab <LogNbPointProcess>10</LogNbPointProcess>\par
+\tab <ProcessWindowType>Hanning</ProcessWindowType>\par
+\tab <ProcessDeltaMax>40</ProcessDeltaMax>\par
+\tab <ProcessEnhancement>0</ProcessEnhancement>\par
+\tab <ProcessMultFactor>18</ProcessMultFactor>\par
+\tab <ProcessZeroTreshold>-15</ProcessZeroTreshold>\par
+\tab <SNRatio>12</SNRatio>\par
+\tab <VoisSeuil>100</VoisSeuil>\par
+\tab <IntensSeuil>18</IntensSeuil>\par
+\tab <TauxHarm>33</TauxHarm>\par
+\tab <Interpol>4</Interpol>\par
+\tab <Group>2</Group>\par
+\tab <Median>3</Median>\par
+\tab <InterpolationRank>1</InterpolationRank>\par
+\tab <GroupRank>2</GroupRank>\par
+\tab <MedianRank>3</MedianRank>\par
+\tab <DynamicNbItem>16</DynamicNbItem>\par
+\tab <DynamicNbValue>2</DynamicNbValue>\par
+\tab <Turbulence>4</Turbulence>\par
+\tab <Median2>3</Median2>\par
+\tab <MinHarmon>50</MinHarmon>\par
+\tab <MaxHarmon>1000</MaxHarmon>\par
+\tab <MaxNbDent>6</MaxNbDent>\par
+\tab <MaxNbPeak>25</MaxNbPeak>\par
+\tab <DiffMinHarmon>50</DiffMinHarmon>\par
+\tab <DiffMaxHarmon>4500</DiffMaxHarmon>\par
+\tab <DiffMaxNbDent>1</DiffMaxNbDent>\par
+\tab <DiffMaxNbPeak>25</DiffMaxNbPeak>\par
+\tab <Diff2MinHarmon>1000</Diff2MinHarmon>\par
+\tab <Diff2MaxHarmon>25</Diff2MaxHarmon>\par
+\tab <Diff2MaxNbDent>0</Diff2MaxNbDent>\par
+\tab <Diff2MaxNbPeak>25</Diff2MaxNbPeak>\par
+\tab <AmdfLength>512</AmdfLength>\par
+\tab <AmdfClipping>30</AmdfClipping>\par
+\tab <AutoVoicingTreshold>40</AutoVoicingTreshold>\par
+\tab <AutoSilenceTreshold>70</AutoSilenceTreshold>\par
+\tab <AutoLength>40</AutoLength>\par
+\tab <AutoSpan>50</AutoSpan>\par
+\tab <AutoType>Yin</AutoType>\par
+\tab <AutoWindowType>Rectangle</AutoWindowType>\par
+\tab <FZeroPreset>PresetNull</FZeroPreset>\par
+\tab <RecordIndex>0</RecordIndex>\par
+\tab <NbImitation>0</NbImitation>\par
+\tab <LTLStartSampleIndex>0</LTLStartSampleIndex>\par
+\tab <LTLEndSampleIndex>0</LTLEndSampleIndex>\par
+</TrackingSelection>\par
+\par
+<PitchMarkerArray></PitchMarkerArray>\par
+\par
+\par
+<BandPassSegmentation>\par
+\tab <BandPassNbPoint>0</BandPassNbPoint>\par
+\tab <BandFreqMin>500</BandFreqMin>\par
+\tab <BandFreqMax>8000</BandFreqMax>\par
+\tab <ChannelBandWidth>0</ChannelBandWidth>\par
+\tab <PercentOverlap>0</PercentOverlap>\par
+\tab <TimeStepMs>0</TimeStepMs>\par
+\tab <ParWidthMs>0</ParWidthMs>\par
+\tab <PeakTreshold>0</PeakTreshold>\par
+\tab <NormalizeGaussRadius>0</NormalizeGaussRadius>\par
+\tab <ParabGaussRadius>0</ParabGaussRadius>\par
+\tab <Enhancement>0</Enhancement>\par
+\tab <MinSegmentDuration>0</MinSegmentDuration>\par
+\tab <IntensitySmoothing>0</IntensitySmoothing>\par
+\tab <CoherenceIntensity>0</CoherenceIntensity>\par
+\tab <bNormalize>0</bNormalize>\par
+</BandPassSegmentation>\par
+\par
+<Display>\par
+\tab <WaveOn>1</WaveOn>\par
+\tab <Wave2On>0</Wave2On>\par
+\tab <WaveSize>10</WaveSize>\par
+\tab <Wave2Size>10</Wave2Size>\par
+\tab <WavePosition>90</WavePosition>\par
+\tab <Wave2Position>90</Wave2Position>\par
+\tab <WaveColor>16711680</WaveColor>\par
+\tab <Wave0Color>16711680</Wave0Color>\par
+\tab <Wave1Color>255</Wave1Color>\par
+\tab <Wave2Color>65280</Wave2Color>\par
+\tab <IntensityOn>1</IntensityOn>\par
+\tab <Intensity2On>0</Intensity2On>\par
+\tab <IntensityWidth>1</IntensityWidth>\par
+\tab <Intensity2Width>1</Intensity2Width>\par
+\tab <IntensitySize>30</IntensitySize>\par
+\tab <Intensity2Size>30</Intensity2Size>\par
+\tab <IntensityPosition>100</IntensityPosition>\par
+\tab <Intensity2Position>100</Intensity2Position>\par
+\tab <IntensityColor>65280</IntensityColor>\par
+\tab <Intensity2Color>16711680</Intensity2Color>\par
+\tab <IntensityFull>1</IntensityFull>\par
+\tab <Intensity2Full>1</Intensity2Full>\par
+\tab <TimeOn>0</TimeOn>\par
+\tab <Time2On>0</Time2On>\par
+\tab <TimeWidth>6</TimeWidth>\par
+\tab <Time2Width>6</Time2Width>\par
+\tab <TimeSize>50</TimeSize>\par
+\tab <Time2Size>50</Time2Size>\par
+\tab <TimePosition>100</TimePosition>\par
+\tab <Time2Position>100</Time2Position>\par
+\tab <TimeColor>6029504</TimeColor>\par
+\tab <Time2Color>16711872</Time2Color>\par
+\tab <TimeSpectroCombColor>255</TimeSpectroCombColor>\par
+\tab <TimePrintSpectroCombColor>16777215</TimePrintSpectroCombColor>\par
+\tab <Time2SpectroCombColor>65535</Time2SpectroCombColor>\par
+\tab <Time2PrintSpectroCombColor>16777215</Time2PrintSpectroCombColor>\par
+\tab <FZeroOn>1</FZeroOn>\par
+\tab <FZero2On>0</FZero2On>\par
+\tab <FZeroWidth>3</FZeroWidth>\par
+\tab <FZero2Width>3</FZero2Width>\par
+\tab <FZeroSize>510</FZeroSize>\par
+\tab <FZero2Size>10</FZero2Size>\par
+\tab <FZeroPosition>100</FZeroPosition>\par
+\tab <FZero2Position>100</FZero2Position>\par
+\tab <FZeroColor>0</FZeroColor>\par
+\tab <FZero2Color>16711680</FZero2Color>\par
+\tab <FZeroSpectroCombColor>255</FZeroSpectroCombColor>\par
+\tab <FZero2SpectroCombColor>65535</FZero2SpectroCombColor>\par
+\tab <FZeroPrintSpectroCombColor>16777215</FZeroPrintSpectroCombColor>\par
+\tab <FZero2PrintSpectroCombColor>16777215</FZero2PrintSpectroCombColor>\par
+\tab <DisplayDot>0</DisplayDot>\par
+\tab <DisplayDot2>0</DisplayDot2>\par
+\tab <FZero2PrintSpectroCombColor>16777215</FZero2PrintSpectroCombColor>\par
+\tab <FZeroAutocorrelationColor>16744448</FZeroAutocorrelationColor>\par
+\tab <FZero2AutocorrelationColor>16744448</FZero2AutocorrelationColor>\par
+\tab <FZeroAmdfColor>16711935</FZeroAmdfColor>\par
+\tab <FZero2AmdfColor>16711935</FZero2AmdfColor>\par
+\tab <FZeroNullColor>4227072</FZeroNullColor>\par
+\tab <FZero2NullColor>16384</FZero2NullColor>\par
+\tab <FZeroBrushColor>8388736</FZeroBrushColor>\par
+\tab <FZero2BrushColor>65535</FZero2BrushColor>\par
+\tab <FZeroHarmoColor>65280</FZeroHarmoColor>\par
+\tab <FZero2HarmoColor>16776960</FZero2HarmoColor>\par
+\tab <FZeroPeriodColor>255</FZeroPeriodColor>\par
+\tab <FZero2PeriodColor>255</FZero2PeriodColor>\par
+\tab <FZeroCepstrumColor>33023</FZeroCepstrumColor>\par
+\tab <FZero2CepstrumColor>33023</FZero2CepstrumColor>\par
+</Display>\par
+\par
+<Annotation>\par
+\tab <SegmentContour0Color>16777215</SegmentContour0Color>\par
+\tab <SegmentContour1Color>13163720</SegmentContour1Color>\par
+\tab <SegmentContour2Color>128</SegmentContour2Color>\par
+\tab <SegmentContour3Color>65280</SegmentContour3Color>\par
+\tab <SegmentContour4Color>255</SegmentContour4Color>\par
+\tab <SegmentContour5Color>65535</SegmentContour5Color>\par
+\tab <SegmentContour6Color>65535</SegmentContour6Color>\par
+\tab <SegmentContour7Color>65535</SegmentContour7Color>\par
+\tab <SegmentContour8Color>65535</SegmentContour8Color>\par
+\tab <SegmentContour9Color>65535</SegmentContour9Color>\par
+\tab <SegmentContour10Color>65535</SegmentContour10Color>\par
+\tab <SegmentContour11Color>65535</SegmentContour11Color>\par
+\tab <ProsodicStructureColor>16711680</ProsodicStructureColor>\par
+\tab <SegmentContour0Width>12</SegmentContour0Width>\par
+\tab <SegmentContour1Width>12</SegmentContour1Width>\par
+\tab <SegmentContour2Width>12</SegmentContour2Width>\par
+\tab <SegmentContour3Width>12</SegmentContour3Width>\par
+\tab <SegmentContour4Width>12</SegmentContour4Width>\par
+\tab <SegmentContour5Width>12</SegmentContour5Width>\par
+\tab <SegmentContour6Width>12</SegmentContour6Width>\par
+\tab <SegmentContour7Width>12</SegmentContour7Width>\par
+\tab <SegmentContour8Width>12</SegmentContour8Width>\par
+\tab <SegmentContour9Width>12</SegmentContour9Width>\par
+\tab <SegmentContour10Width>12</SegmentContour10Width>\par
+\tab <SegmentContour11Width>12</SegmentContour11Width>\par
+\tab <ProsodicStructureWidth>9</ProsodicStructureWidth>\par
+\tab <Contour0Name>INS</Contour0Name>\par
+\tab <Contour1Name>Cx</Contour1Name>\par
+\tab <Contour2Name>Cn</Contour2Name>\par
+\tab <Contour3Name>C2</Contour3Name>\par
+\tab <Contour4Name>C1</Contour4Name>\par
+\tab <Contour5Name>C0</Contour5Name>\par
+\tab <Contour6Name>Ci</Contour6Name>\par
+\tab <Contour7Name>X</Contour7Name>\par
+\tab <Contour8Name>%</Contour8Name>\par
+\tab <Contour9Name>Hi</Contour9Name>\par
+\tab <Contour10Name>L</Contour10Name>\par
+\tab <Contour11Name>H</Contour11Name>\par
+</Annotation>\par
+\par
+\par
+<TimeStamp Value="Friday, July 22, 2022 time 15h 36m 41s"/>\par
+\par
+<WinPitch Program="Corpus"  Version="Version U2.00"/>\par
+\par
+\par
+<Layer1 Name="Layer 1" ID="Layer1" Short="L 1" TagName="" TagSet="" Color="RGB(255,255,255)"/>\par
+\par
+<UNIT speaker="Layer 1" startTime="2.573 s" endTime="7.719 s" Channel="M" Tag="" Rank="1">Era a dona / era / a dona casada / ela tinha tr\'eas filha //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="11.448 s" endTime="18.794 s" Channel="M" Tag="" Rank="2">a\'ed / quando passou uns tempo / ela ganhou / ganhou um menino //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="21.375 s" endTime="40.789 s" Channel="M" Tag="" Rank="3">ganhou um menino / a\'ed/ e falou ca [/1] ca a Maria Mais velha / voc\'ea vai l\'e1 / na horta / apanha / um bot\'e3o de rosa / e traz / tr\'eas molho / tr\'eas folha de couve //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="41.002 s" endTime="46.202 s" Channel="M" Tag="" Rank="4">para poder fazer / n\'f3s fazer na hora do batizado do menino / inteirar com as outra comida //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="48.882 s" endTime="50.397 s" Channel="M" Tag="" Rank="5">a\'ed / ela bateu para l\'e1 //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="51.049 s" endTime="67.055 s" Channel="M" Tag="" Rank="6">a\'ed chegou l\'e1 / apanhou / o bot\'e3o de rosa / quando ela foi para apanhar o molho de couve / o Rei do / dos Boi veio / passou a m\'e3o nela //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="67.968 s" endTime="68.862 s" Channel="M" Tag="" Rank="7">foi embora //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="73.556 s" endTime="77.090 s" Channel="M" Tag="" Rank="8">a\'ed / ficou a [/1] a Maria do Meio //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="77.294 s" endTime="84.632 s" Channel="M" Tag="" Rank="9">\'f4 minha irm\'e3 / ma [/1] &he / vai l\'e1 na [/1] na horta apanha o molho de couve e o bot\'e3o de rosa / que sua irm\'e3 tiver l\'e1 c\'e9 traz +</UNIT>\par
+<UNIT speaker="Layer 1" startTime="84.632 s" endTime="85.817 s" Channel="M" Tag="" Rank="10">voc\'ea fala com ela para vir embora //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="87.068 s" endTime="109.351 s" Channel="M" Tag="" Rank="11">a\'ed / chegou l\'e1 olhou olhou / para todo canto n\'e3o viu / n\'e3o viu ela em canto nenhum / a\'ed apanhou / um [/1] o bot\'e3o de rosas primeiro / quando ela foi para apanhar o molho de couve / o Rei [/2] o Rei dos Gavi\'e3o veio / passou a m\'e3o nela //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="109.351 s" endTime="110.133 s" Channel="M" Tag="" Rank="12">cascou fora //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="111.660 s" endTime="129.590 s" Channel="M" Tag="" Rank="13">ai / a [/1] a [/1] a [/1] a m\'e3e delas falou / \'f4 minhas duas filha est\'e1 demorando / mandou a ma [/1] Maria / Ca\'e7ula ir atr\'e1s / vai l\'e1 / que as duas tiver l\'e1 fala com elas para vim embora / e oc\'ea traz o bot\'e3o de rosa com um molho de couve //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="130.973 s" endTime="138.429 s" Channel="M" Tag="" Rank="14">a\'ed / hhh ela apanhou o bot\'e3o de rosa quando foi apanhar a couve / veio o Rei dos Peixe / passou a m\'e3o nela / cascou fora //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="139.371 s" endTime="141.199 s" Channel="M" Tag="" Rank="15">a\'ed roubou todas tr\'eas // </UNIT>\par
+<UNIT speaker="Layer 1" startTime="141.866 s" endTime="177.513 s" Channel="M" Tag="" Rank="16">a\'ed a [/1] a mulher [/2] a velha que quis esteve l\'e1 na horta / apanhou a couve com o bot\'e3o de rosa / veio / fez a comida / o padrinho mais / a madrinha chegou e batizou o menino / a\'ed ele [/1] ele foi crescendo / foi crescendo / p\'f4s ele na escola ele estudou bastante / a\'ed / j\'e1 estava grandinho / com sete anos / a\'ed / saiu / falou / \'f4 minha m\'e3e / eu [/1] eu quero conhecer minhas tr\'eas filha //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="177.649 s" endTime="180.446 s" Channel="M" Tag="" Rank="17">ah / meu filho / voc\'ea num sabe para onde \'e9 que elas foi //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="181.353 s" endTime="182.895 s" Channel="M" Tag="" Rank="18">ah / eu vou conhecer elas //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="185.392 s" endTime="189.614 s" Channel="M" Tag="" Rank="19">chegou no caminho / encontrou com um homem / &he / vendendo a bota e chap\'e9u //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="192.000 s" endTime="198.793 s" Channel="M" Tag="" Rank="20">a\'ed / ele / ele perguntou / \'f4 / voc\'ea quer vender essa / essa bota com esse chap\'e9u //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="198.793 s" endTime="200.228 s" Channel="M" Tag="" Rank="21">o homem falou /  vendo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="200.522 s" endTime="208.012 s" Channel="M" Tag="" Rank="22">a\'ed essa [/1] essa bota com esse chap\'e9u / voc\'ea entra dentro dela / e fala assim / bota e chap\'e9u / ela leva voc\'ea em qualquer lugar que voc\'ea quiser //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="210.985 s" endTime="224.386 s" Channel="M" Tag="" Rank="23">a\'ed ele entrou nela / na bota / e p\'f4s o &chap [/3] e p\'f4s o chap\'e9u na cabe\'e7a / a\'ed / &quand [/1] quando ele assustou / est\'e1vamos chegando l\'e1 na casa da irm\'e3 mais velha / Maria Mais V\'e9ia //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="225.874 s" endTime="234.796 s" Channel="M" Tag="" Rank="24">a\'ed ela estava ca\'e7ando um / ninho de galinha / ele falou / ah / \'ea minha irm\'e3 Maria Mais velha //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="234.796 s" endTime="237.118 s" Channel="M" Tag="" Rank="25">ah / da onde / eu n\'e3o tenho irm\'e3o n\'e3o //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="237.559 s" endTime="239.247 s" Channel="M" Tag="" Rank="26">ah / voc\'ea num lembra do &q +</UNIT>\par
+<UNIT speaker="Layer 1" startTime="239.651 s" endTime="243.837 s" Channel="M" Tag="" Rank="27">eu estava novo / voc\'ea foi para horta apanhar couve /e num voltou //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="245.783 s" endTime="254.374 s" Channel="M" Tag="" Rank="28">ah / \'e9 voc\'ea / mandou ele entrar l\'e1 para dentro de casa //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="254.943 s" endTime="261.075 s" Channel="M" Tag="" Rank="29">ele falou / oh &m [/1] meu marido quando chega / ele chega dando chifrada por todo canto //Layer1</UNIT>\par
+<UNIT speaker="Layer 1" startTime="261.589 s" endTime="263.792 s" Channel="M" Tag="" Rank="30">olha a parede como que est\'e1 cavoucada a\'ed oh //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="265.591 s" endTime="269.666 s" Channel="M" Tag="" Rank="31">a\'ed quando foi [/1] deu a tarde / vem chegando / metendo o chifre por todo lado //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="271.563 s" endTime="278.576 s" Channel="M" Tag="" Rank="32">chegou /e entrou l\'e1 para dentro de casa / a\'ed ele &tava [/1] escondeu ele l\'e1 na / atr\'e1s da porta l\'e1 //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="280.951 s" endTime="293.948 s" Channel="M" Tag="" Rank="33">aqui me cheira sangue real / n\'e9 nada n\'e3o / leit\'e3ozinho assado que eu guardei para voc\'ea a\'ed / a\'ed / me apresentar um irm\'e3o meu aqui que voc\'ea fa\'e7a ele / &he/ ah / n\'e3o fa\'e7o ele nada /s\'f3 &trat [/1] trato ele bem / como trato voc\'ea //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="294.229 s" endTime="313.064 s" Channel="M" Tag="" Rank="34">a\'ed comeu e bebeu / a\'ed / perguntou ele que ele que ele dava [/3] que ele dava not\'edcia da [/1] onde \'e9 que era a casa da [\\1] &he do Rei dos Gavi\'e3o //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="314.033 s" endTime="319.247 s" Channel="M" Tag="" Rank="35">o boi / o Boi falou / oh / num posso dar voc\'ea not\'edcia n\'e3o / n\'f3s num combina n\'e3o / n\'f3s somos inimigo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="321.637 s" endTime="328.321 s" Channel="M" Tag="" Rank="36">&he a\'ed / &he garrou deu ele &he +</UNIT>\par
+<UNIT speaker="Layer 1" startTime="333.139 s" endTime="338.058 s" Channel="M" Tag="" Rank="37">deu para ele acho que / acho que um anel //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="342.022 s" endTime="345.725 s" Channel="M" Tag="" Rank="38">&he a\'ed falou/ tirou tirejum e falou / bota e chap\'e9u //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="345.725 s" endTime="350.129 s" Channel="M" Tag="" Rank="39">me p\'f5e eu / l\'e1 / no terreiro da casa da &he / minha irm\'e3 Maria do Meio //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="351.172 s" endTime="354.984 s" Channel="M" Tag="" Rank="40">a\'ed quando ele assustou / j\'e1 estava l\'e1 / no terreiro l\'e1 //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="355.331 s" endTime="363.050 s" Channel="M" Tag="" Rank="41">a\'ed ela estava &he/ estava varrendo o terreiro l\'e1 / falou / \'ea minha irm\'e3 / Maria do Meio //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="363.378 s" endTime="367.421 s" Channel="M" Tag="" Rank="42">voc\'ea num lembra voc\'ea [/1] voc\'ea foi para horta apanhar couve / e num voltou //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="368.392 s" endTime="369.453 s" Channel="M" Tag="" Rank="43">para o dia do meu batizado //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="369.469 s" endTime="370.600 s" Channel="M" Tag="" Rank="44">Ah / \'e9 voc\'ea meu irm\'e3o //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="370.654 s" endTime="389.279 s" Channel="M" Tag="" Rank="45">Ah / \'e9 voc\'ea meu irm\'e3o / ah mandou entrar l\'e1 para dentro de casa / abra\'e7ou ele / coou caf\'e9 / deu ele &he / uma &jant [/2] uma janta / e falou / ah / meu marido quando chega / ele chega batendo a asa / chega rasgando tudo na unha / meu bra\'e7o / como que est\'e1 todo arranhado //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="391.130 s" endTime="401.818 s" Channel="M" Tag="" Rank="46">a roupa rasgada / a\'ed / &hehhh voc\'ea esconde a\'ed / xxxx a\'ed no &s [/3] a\'ed no arm\'e1rio a\'ed //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="403.676 s" endTime="419.757 s" Channel="M" Tag="" Rank="47">a\'ed / quando ele foi chegando / fazendo aver\'e3o / &he assim fazendo aver\'e3o e sentou &l [/1] l\'e1 e entrou l\'e1 para dentro de casa / qu\'ea que guardaste para mim /&he \'e9 um franguinho / franguinho assado //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="420.344 s" endTime="425.007 s" Channel="M" Tag="" Rank="48">a\'ed / p\'f4s ele l\'e1 na mesa l\'e1 / te apresentar um irm\'e3o aqui qu\'ea voc\'ea fa\'e7a a ele // </UNIT>\par
+<UNIT speaker="Layer 1" startTime="425.007 s" endTime="427.502 s" Channel="M" Tag="" Rank="49">ah /fa\'e7o ele nada /trato bem como trato voc\'ea //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="428.273 s" endTime="438.810 s" Channel="M" Tag="" Rank="50">a\'ed ele veio /sentou l\'e1 na mesa / contou bastante caso / comeu e bebeu / eu quero voc\'ea me d\'e1 not\'edcia onde \'e9 que minha irm\'e3 / &he Maria Ca\'e7ula mora //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="439.197 s" endTime="443.566 s" Channel="M" Tag="" Rank="51">AH /num posso d\'e1 voc\'ea not\'edcia n\'e3o /que eu mais Rei / dos Peixe num combina //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="446.540 s" endTime="452.231 s" Channel="M" Tag="" Rank="52">a\'ed &he / deu para ele uma &he / uma bolsa de dinheiro //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="453.042 s" endTime="455.686 s" Channel="M" Tag="" Rank="53">a\'ed &el &he / falou bota e chap\'e9u //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="455.722 s" endTime="460.348 s" Channel="M" Tag="" Rank="54">me p\'f5e eu l\'e1 / no terreiro da casa de minha irm\'e3 Maria [/1] &he Maria Ca\'e7ula //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="461.340 s" endTime="471.583 s" Channel="M" Tag="" Rank="55">a\'ed / quando chegou l\'e1 ela estava / ela estava &vin [/1] vindo da [/1] da bica / com um pote d\rquote\'e1gua na cabe\'e7a //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="472.704 s" endTime="474.425 s" Channel="M" Tag="" Rank="56">xxxx \'ea / minha irm\'e3 / Maria Ca\'e7ula //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="474.607 s" endTime="475.462 s" Channel="M" Tag="" Rank="57">ah / sai //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="475.768 s" endTime="477.125 s" Channel="M" Tag="" Rank="58">eu n\'e3o tenho irm\'e3o n\'e3o / u\'e9 //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="477.425 s" endTime="482.129 s" Channel="M" Tag="" Rank="59">voc\'ea num lembra voc\'ea foi para horta apanhar verdura / e bot\'e3o de rosa e num voltou //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="482.129 s" endTime="483.272 s" Channel="M" Tag="" Rank="60">ah / \'e9 voc\'ea meu irm\'e3o //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="483.532 s" endTime="486.318 s" Channel="M" Tag="" Rank="61">mandou ele entrar l\'e1 para dentro de casa /ficou com muita alegria com ele //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="488.089 s" endTime="494.864 s" Channel="M" Tag="" Rank="62">ah quando meu irm\'e3o chega xxx / meu marido chega / ele chega jogando \'e1gua para o todo lado //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="494.878 s" endTime="497.332 s" Channel="M" Tag="" Rank="63">as parede da casa como \'e9 que est\'e1 tudo derretendo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="499.903 s" endTime="502.997 s" Channel="M" Tag="" Rank="64">a\'ed / subiu l\'e1 para o s\'f3t\'e3o ficou quieto //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="503.978 s" endTime="511.134 s" Channel="M" Tag="" Rank="65">a\'ed que ele / foi chegando / barulhinho esparramando \'e1gua por todo canto l\'e1 /entrou para dentro de casa //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="512.143 s" endTime="513.592 s" Channel="M" Tag="" Rank="66">qu\'ea que guardaste para mim //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="514.061 s" endTime="515.666 s" Channel="M" Tag="" Rank="67">que me cheira sangue real //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="516.477 s" endTime="518.691 s" Channel="M" Tag="" Rank="68">ah \'e9 [/1] \'e9 um / patinho assado //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="519.280 s" endTime="520.154 s" Channel="M" Tag="" Rank="69">ent\'e3o venha ele //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="520.154 s" endTime="521.275 s" Channel="M" Tag="" Rank="70">p\'f4s l\'e1 na mesa //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="521.525 s" endTime="524.097 s" Channel="M" Tag="" Rank="71">apresentar um irm\'e3o meu aqui o qu\'ea que voc\'ea fa\'e7a a ele //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="524.594 s" endTime="527.229 s" Channel="M" Tag="" Rank="72">ah fa\'e7o ele nada / trato ele bem / como trato voc\'ea //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="528.222 s" endTime="542.862 s" Channel="M" Tag="" Rank="73">a\'ed / comeu / tirou tirejum / e falou / agora eu quero voc\'ea me d\'e1 not\'edcia &d / onde \'e9 que mora uma [/1] uma [/1] uma Maria Bonita /</UNIT>\par
+<UNIT speaker="Layer 1" startTime="543.959 s" endTime="545.317 s" Channel="M" Tag="" Rank="74">eu quero casar com ela //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="547.324 s" endTime="553.180 s" Channel="M" Tag="" Rank="75">A\'ed / o [/1] o Rei dos Peixe ah eu eu num vejo falar nessa mo\'e7a n\'e3o //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="553.526 s" endTime="554.864 s" Channel="M" Tag="" Rank="76">mas \'e0s vez voc\'ea pode ir l\'e1 //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="555.450 s" endTime="558.437 s" Channel="M" Tag="" Rank="77">a\'ed / deu a &toa [/3] deu uma toalha para ele //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="559.576 s" endTime="560.366 s" Channel="M" Tag="" Rank="78">compunha comida +</UNIT>\par
+<UNIT speaker="Layer 1" startTime="560.647 s" endTime="566.635 s" Channel="M" Tag="" Rank="79">ele entrou na bota e chap\'e9u / quando ele assustou / estava l\'e1 no terreiro l\'e1 do pal\'e1cio / l\'e1 do rei //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="567.432 s" endTime="574.424 s" Channel="M" Tag="" Rank="80">a\'ed / a mo\'e7a ficava / &he / ficava / trancada / num quarto / debaixo de sete chaves //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="577.184 s" endTime="578.796 s" Channel="M" Tag="" Rank="81">num deixava namorar com ningu\'e9m //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="580.460 s" endTime="581.936 s" Channel="M" Tag="" Rank="82">a\'ed / ele falou /bota e chap\'e9u //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="582.007 s" endTime="585.770 s" Channel="M" Tag="" Rank="83">me p\'f5e l\'e1 no quarto onde \'e9 que a [/2] que a princesa est\'e1 dormindo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="586.233 s" endTime="587.218 s" Channel="M" Tag="" Rank="84">a Maria Bonita //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="588.192 s" endTime="592.566 s" Channel="M" Tag="" Rank="85">a\'ed / quando ele assustou / j\'e1 estava l\'e1 sentado na cama perto dela //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="593.389 s" endTime="595.263 s" Channel="M" Tag="" Rank="86">contando ela [/2] contando ela caso l\'e1 //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="596.623 s" endTime="626.923 s" Channel="M" Tag="" Rank="87">a\'ed / contou bastante caso/ a [/1] a [/1] &he &he / a empregada levou / &he &he um bule de caf\'e9 / um pires de p\'e3o / ele [/1] ele ajudou [/2] ajudou ela comer / a\'ed / quando o [/1] o dia estava clareando / hhh a velha num via ele n\'e3o //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="627.216 s" endTime="629.235 s" Channel="M" Tag="" Rank="88">a velha s\'f3 levava os trem /e deixava l\'e1 //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="629.549 s" endTime="632.477 s" Channel="M" Tag="" Rank="89">quando o dia est\'e1vamos clareando / falou / bota e chap\'e9u me p\'f5e l\'e1 no terreiro //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="633.876 s" endTime="645.361 s" Channel="M" Tag="" Rank="90">a\'ed/ no outro dia / deu a noite falou / bota e chap\'e9u / me p\'f5e l\'e1 no terreiro &da [/1] &l [/1] xxxx no quarto da mo\'e7a outra vez //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="645.705 s" endTime="648.743 s" Channel="M" Tag="" Rank="91">a\'ed sentou l\'e1 perto da cama / e j\'e1 contou para ela o caso //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="649.382 s" endTime="658.387 s" Channel="M" Tag="" Rank="92">ah / eu vim para c\'e1 para poder / namorar com voc\'ea / ouvi falando em voc\'ea / quero casar com voc\'ea / a\'ed bateu bastante papo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="660.545 s" endTime="670.813 s" Channel="M" Tag="" Rank="93">a\'ed / a velha tinha levado bandeja de [/1] de um bolo mais uma x\'edcara de caf\'e9 / mais p\'e3o / a\'ed eles comeram tudo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="672.422 s" endTime="675.757 s" Channel="M" Tag="" Rank="94">a\'ed / quando o dia estava clareando bota e chap\'e9u / me p\'f5e l\'e1 no terreiro //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="678.425 s" endTime="683.484 s" Channel="M" Tag="" Rank="95">a\'ed / quando deu a noite /ele tornou / bota e chap\'e9u /me p\'f5e l\'e1 no terreiro l\'e1 no quarto outra vez //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="683.754 s" endTime="689.956 s" Channel="M" Tag="" Rank="96">a\'ed / ele sentou l\'e1 perto dela e falou / eu quero saber / da vida de seu pai //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="690.386 s" endTime="691.923 s" Channel="M" Tag="" Rank="97">como \'e9 que seu pai passa //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="692.204 s" endTime="692.897 s" Channel="M" Tag="" Rank="98">que voc\'ea fique //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="692.897 s" endTime="693.534 s" Channel="M" Tag="" Rank="99">q [/1] que xxx + </UNIT>\par
+<UNIT speaker="Layer 1" startTime="694.779 s" endTime="714.354 s" Channel="M" Tag="" Rank="100">a\'ed / a\'ed ela falou com [/1] com a velha assim / mandou a velha falar/ a velha / ah / &m [/1] falou com ele / sua filha quer saber da vida sua / como \'e9 que [/1] que \'e9 a vida sua / voc\'ea chega l\'e1 / voc\'ea fala com ela //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="714.956 s" endTime="723.042 s" Channel="M" Tag="" Rank="101">quando a lua [/3] quando a lua \'e9 nova / eu s\'f4 rapazinho novo / quando ela \'e9 minguante /eu s\'f4 um rapazinho mais de idade //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="725.800 s" endTime="728.107 s" Channel="M" Tag="" Rank="102">quando ela \'e9 crescente / eu s\'f4 um rapazinho de idade //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="728.500 s" endTime="733.354 s" Channel="M" Tag="" Rank="103">e quando ela \'e9 minguante / eu j\'e1 s\'f4 / um velho mais / mais decadente mesmo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="733.942 s" endTime="749.543 s" Channel="M" Tag="" Rank="104">a\'ed/ e minha vida mora / dentro do mar / dentro do mar tem uma caixa de bronze / dentro da caixa de bronze tem uma caixetinha / dentro da caixetinha tem [/1] tem uma pomba / dentro da pomba / tem um ovo /e dentro do ovo tem uma vela acesa //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="755.610 s" endTime="765.637 s" Channel="M" Tag="" Rank="105">a\'ed /menino / a velha &cont [/1] &el [/1] contou para ela esse caso / e ela contou para o rapaz/ a\'ed ele falou / bota e chap\'e9u / me p\'f5e eu l\'e1 na beira do mar //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="766.523 s" endTime="778.406 s" Channel="M" Tag="" Rank="106">a\'ed / chegou l\'e1 / gritou para o Rei dos Boi / &he ele gritou para os Rei dos [/4] para o Rei dos Peixe / o Rei do Peixe veio / qu\'ea se quer Jo\'e3zinnho //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="778.753 s" endTime="781.836 s" Channel="M" Tag="" Rank="107">Ah / para voc\'ea tirar uma caixa de bronze / l\'e1 no fundo do mar //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="782.605 s" endTime="787.386 s" Channel="M" Tag="" Rank="108">a\'ed / o Peixe falou/ a hora que voc\'ea ver a \'e1gua emborboiar / tr\'eas vez assim voc\'ea + </UNIT>\par
+<UNIT speaker="Layer 1" startTime="787.834 s" endTime="788.984 s" Channel="M" Tag="" Rank="109">a caixa vem subindo //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="790.098 s" endTime="802.984 s" Channel="M" Tag="" Rank="110">a\'ed / a \'e1gua emborboiou / menino / quando ele olhou/ a caixa de bronze vinha subindo/ jogou ela l\'e1 praia l\'e1 / a\'ed ele / gritou para os Rei dos Boi / o Rei dos Boi veio / o qu\'ea que voc\'ea quer Jo\'e3ozinho //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="803.601 s" endTime="805.509 s" Channel="M" Tag="" Rank="111">Ah/ para voc\'ea arrebentar a caixa para mim //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="805.736 s" endTime="811.605 s" Channel="M" Tag="" Rank="112">quando arrebentou a [/1] a [/1] a caixa o velho j\'e1 estava [/1] come\'e7ou / adoecer //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="814.266 s" endTime="822.395 s" Channel="M" Tag="" Rank="113">a\'ed / o boi arrebentou a caixa / o [/1] o velho j\'e1 estava de cama //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="824.189 s" endTime="845.645 s" Channel="M" Tag="" Rank="114">a\'ed / arrebentou a outra caixinha/ a\'ed / dentro da caixinha &ti [/1] tinha / a pomba juriti / a\'ed / a juriti / saiu /  voando / ele gritou para o Rei dos Gavi\'e3o / o gavi\'e3o veio depressa / o qu\'ea que voc\'ea quer Jo\'e3ozinho //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="845.715 s" endTime="847.451 s" Channel="M" Tag="" Rank="115">voc\'ea pegar aquela juriti para mim //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="847.770 s" endTime="849.506 s" Channel="M" Tag="" Rank="116">o gavi\'e3o saiu atr\'e1s da juriti //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="852.618 s" endTime="855.426 s" Channel="M" Tag="" Rank="117">a\'ed /pegou a juriti / &trou +</UNIT>\par
+<UNIT speaker="Layer 1" startTime="855.805 s" endTime="863.569 s" Channel="M" Tag="" Rank="118">ele matou a juriti / &ti [/1] abriu ela / tirou o ovo / quebrou o ovo / apagou a vela / o velho morreu //</UNIT>\par
+<UNIT speaker="Layer 1" startTime="864.553 s" endTime="876.380 s" Channel="M" Tag="" Rank="119">quando ele chegou a casa est\'e1vamos cheia de gente / assim /fazendo quarto / a\'ed /chegou / fez o enterro do velho / e tirou a mo\'e7a de l\'e1 do quarto / e casou com ela // </UNIT>\par
+<UNIT speaker="Layer 1" startTime="876.863 s" endTime="887.941 s" Channel="M" Tag="" Rank="120">ficou morando tranquilo l\'e1 / veio embora para casa da m\'e3e dele /mais ela /e deixou a [/1] a vi\'fava do velho l\'e1 s\'f3 l\'e1 no pal\'e1cio l\'e1 / do rei //</UNIT>\par
+\par
+}
+ 

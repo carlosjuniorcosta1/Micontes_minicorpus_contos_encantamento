@@ -1,0 +1,713 @@
+
+<!-- DTD : WinPitch Corpus -->
+<!-- Version : 1 -->
+<!ELEMENT Alignment (TimeStamp, WinPitch, Trans, Layer1, Layer2, Layer3, Layer4, Layer5, Layer6, Layer7, Layer8, UNIT* )>
+<!ELEMENT TimeStamp (#PCDATA)>
+<!ELEMENT WinPitch (#PCDATA)>
+<!ELEMENT Trans (#PCDATA)>
+<!ELEMENT Layer1 (#PCDATA)>
+<!ELEMENT Layer2 (#PCDATA)>
+<!ELEMENT Layer3 (#PCDATA)>
+<!ELEMENT Layer4 (#PCDATA)>
+<!ELEMENT Layer5 (#PCDATA)>
+<!ELEMENT Layer6 (#PCDATA)>
+<!ELEMENT Layer7 (#PCDATA)>
+<!ELEMENT Layer8 (#PCDATA)>
+<!ELEMENT UNIT (#PCDATA)>
+
+<!ATTLIST TimeStamp
+        Value CDATA #REQUIRED
+>
+
+<!ATTLIST WinPitch
+        Program CDATA #REQUIRED
+        Version CDATA #REQUIRED
+>
+
+<!ATTLIST Trans
+        version CDATA #REQUIRED
+        creationDate CDATA #REQUIRED
+        audioFilename CDATA #REQUIRED
+        videoFilename CDATA #REQUIRED
+        textFilename CDATA #REQUIRED
+>
+
+<!ATTLIST Layer1
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer2
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer3
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer4
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer5
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer6
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer7
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer8
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer9
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer10
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer11
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer12
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer13
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer14
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer15
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer16
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer17
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer18
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer19
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer20
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer21
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer22
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer23
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer24
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer25
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer26
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer27
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer28
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer29
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer30
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer31
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer32
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer33
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer34
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer35
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer36
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer37
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer38
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer39
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer40
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer41
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer42
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer43
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer44
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer45
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer46
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer47
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer48
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer49
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer50
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer51
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer52
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer53
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer54
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer55
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer56
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer57
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer58
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer59
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer60
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer61
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer62
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer63
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer64
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer65
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer66
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer67
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer68
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer69
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer70
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer71
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer72
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer73
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer74
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer75
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer76
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer77
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer78
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer79
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer80
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer81
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer82
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer83
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer84
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer85
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer86
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer87
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer88
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer89
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer90
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer91
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer92
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer93
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer94
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer95
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST Layer96
+        Name CDATA #REQUIRED
+        ID CDATA #REQUIRED
+        Short CDATA #REQUIRED
+        Color CDATA #REQUIRED
+>
+
+<!ATTLIST UNIT
+        speaker CDATA #REQUIRED
+        startTime CDATA #REQUIRED
+        endTime CDATA #REQUIRED
+        Channel CDATA #REQUIRED
+        Tag CDATA #REQUIRED
+>
