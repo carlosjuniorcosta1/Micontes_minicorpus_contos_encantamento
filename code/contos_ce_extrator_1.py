@@ -367,7 +367,7 @@ import pickle
 with open('brill_00', 'rb') as source:
     tagueador = pickle.load(source)
 
-df['transcricao_pos'] = df['transcricao_normalizada'].apply(lambda x: nltk.word_tokenize(x)).apply(lambda x: tagueador.tag(x))
+df['transcricao_pos'] = df['transcricao_limpa'].apply(lambda x: nltk.word_tokenize(x)).apply(lambda x: tagueador.tag(x))
 
 df['transcricao_pos'] = df['transcricao_pos'].apply(
     lambda x: re.sub(r"(?<='sio’',\s')\w+|(?<='sio',\s')\w+|(?<='senhora',\s')\w+", 'PROPESS', str(x),
